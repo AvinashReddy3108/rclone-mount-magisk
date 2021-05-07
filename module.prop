@@ -1,8 +1,6 @@
-id=com.piyushgarg.rclone
-name=rclone-mount
-modVer=1.13
-BinVer=1.53.0
-version=rclone: (v1.53.0) mod: (v1.13)
-versionCode=113
-author=piyushgarg @ github.com
-description=Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info.
+id=rclone.mount
+name=Cloud Storage Mounter (forked from rclone-mount)
+version=rclone: (v1.55.0) mod: (v1.14)
+versionCode=114
+author=AvinashReddy3108 (OG: piyushgarg)
+description=Mount and sync your cloud storage on your device using 'rclone' & 'fusermount', providing virtually limitless storage expansion with support for dozens of cloud providers and extensive customization options.
