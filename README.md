@@ -73,6 +73,6 @@ Always check this document before updating to new releases as significant change
 - rclone devs
 - pmj_pedro[@xda](https://forum.xda-developers.com/showpost.php?p=78147335&postcount=1)
 - agnostic-apollo[@xda](https://forum.xda-developers.com/showpost.php?p=79929083&postcount=12)
-- Termux for building and hosting binaries for [rclone](https://10.via0.com/ipns/k51qzi5uqu5dg9vawh923wejqffxiu9bhqlze5f508msk0h7ylpac27fdgaskx/pool/main/r/rclone), [fusermount](https://grimler.se/termux-root-packages-24/pool/stable/libf/libfuse2/), [inotifywait](https://10.via0.com/ipns/k51qzi5uqu5dg9vawh923wejqffxiu9bhqlze5f508msk0h7ylpac27fdgaskx/pool/main/i/inotify-tools), [libandroid-support.so](https://10.via0.com/ipns/k51qzi5uqu5dg9vawh923wejqffxiu9bhqlze5f508msk0h7ylpac27fdgaskx/pool/main/liba/libandroid-support).
+- Termux for building and hosting binaries for [rclone](https://packages.termux.org/apt/termux-main/pool/main/r/rclone), [fusermount](https://grimler.se/termux-root-packages-24/pool/stable/libf/libfuse2/), [inotifywait](https://packages.termux.org/apt/termux-main/pool/main/i/inotify-tools), [libandroid-support.so](https://packages.termux.org/apt/termux-main/pool/main/liba/libandroid-support).
 - improvements by geofferey@github
 - @Zackptg5 for MMT-EX Module template.

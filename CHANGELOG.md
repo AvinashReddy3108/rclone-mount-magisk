@@ -1,5 +1,9 @@
 ## Changelog (forked)
 
+### v1.14 (binary updates)
+* Updated rclone to 1.56.0 for all supported architectures.
+* Updated README.md to point to Termux packages source.
+
 ### v1.14
 * Used @Zackptg5's MMT-EX module template.
 * Cleaned all install & wrapper scripts.
