@@ -33,7 +33,7 @@
 </div>
 
 ### Features
-- Support for arm, arm64, ~~& x86~~ (will be back soon)
+- Support for arm, arm64, & x86 (64bit too)
 - Huge list of [supported cloud storage providers](https://rclone.org/#providers)
 - Apps with ability to specify paths can access the remotes at `/mnt/cloud/`.
 - Most file explorers work just fine ([read more on this](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/issues/9)).
