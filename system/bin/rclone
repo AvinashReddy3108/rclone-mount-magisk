@@ -50,7 +50,7 @@ config () {
     if [[ -e ${USER_CONFDIR}/rclone.conf ]]; then
         cp ${USER_CONFDIR}/rclone.conf ${MODDIR}/.config/rclone/rclone.conf
     fi
-    ${MODDIR}/rclone config && cp ${MODDIR}/.config/rclone/rclone.conf ${USER_CONFDIR}/rclone.conf && echo && ${MODDIR}/rclone-wrapper.sh remount
+    ${MODDIR}/rclone config && cp ${MODDIR}/.config/rclone/rclone.conf ${USER_CONFDIR}/rclone.conf && echo && remount
 }
 
 help () {
